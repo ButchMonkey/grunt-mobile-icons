@@ -1,6 +1,8 @@
-# gulp-mobile-icons [![Build Status](https://travis-ci.org/Collaborne/gulp-mobile-icons.svg?branch=master)](https://travis-ci.org/Collaborne/gulp-mobile-icons) [![Greenkeeper badge](https://badges.greenkeeper.io/Collaborne/gulp-mobile-icons.svg)](https://greenkeeper.io/)
+# grunt-mobile-icons [![Build Status](https://travis-ci.org/Collaborne/gulp-mobile-icons.svg?branch=master)](https://travis-ci.org/Collaborne/gulp-mobile-icons)
 
-Gulp plugin that creates PNG icons for iOS and Android based on a SVG image.
+Grunt Port / Fork of [Collaborne's Gulp Mobile Icons](https://github.com/Collaborne/gulp-mobile-icons)
+
+Grunt plugin that creates PNG icons for iOS and Android based on a SVG image.
 
 Please read this [blog post](https://medium.com/collaborne-engineering/the-pain-of-producing-mobile-icons-and-splash-screens-and-how-to-get-rid-off-it-b37372618ea0#.up1ljd9r9) for a detailed explanation of the problem that the plugin solves.
 
